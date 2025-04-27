@@ -35,13 +35,19 @@ pip install pillow requests
    - Click "New Token", name it anything (e.g., image-rename), and set Role: Read.
   - Copy the generated API key (starts with hf_...).
 
+---
 
 # 🛠️ How to Use
-    -Clone or download this repository.
-    -Open a terminal and install dependencies:
-
-```pip install pillow requests
+  - Clone the repository
+  ```
+git clone https://github.com/anti-v2/Image-Renamer.git
+cd Image-Renamer
 ```
+- Create virtual env
+```
+pip install pillow requests
+```
+---
 
 ## Edit the script file (rename_images.py) and replace:
 ```
@@ -49,5 +55,7 @@ headers = {"Authorization": "Bearer YOUR_HUGGINGFACE_API_KEY_HERE"}
 ```
 -with your actual Hugging Face API key. eg hf_
 ### Run the script:
-``` python rename_images.py
 ```
+python rename_images.py
+```
+---
