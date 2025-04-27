@@ -26,6 +26,7 @@ Install required Python libraries:
  ```
 pip install pillow requests
 ```
+---
 
 # 🔑 Setup Hugging Face API Key
 
