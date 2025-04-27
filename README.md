@@ -36,12 +36,11 @@ pip install pillow requests
 
 
 # 🛠️ How to Use
-
-    Clone or download this repository.
-
-    Open a terminal and install dependencies:
-```bash
-pip install pillow requests
+    -Clone or download this repository.
+    -Open a terminal and install dependencies:
+  
+bash
+```pip install pillow requests
 ```
 
 Edit the script file (rename_images.py) and replace:
