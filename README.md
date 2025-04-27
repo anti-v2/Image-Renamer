@@ -36,3 +36,15 @@ pip install pillow requests
 
     Copy the generated API key (starts with hf_...).
 
+🛠️ How to Use
+
+    Clone or download this repository.
+
+    Open a terminal and install dependencies:
+```bash
+pip install pillow requests
+
+Edit the script file and replace:
+
+headers = {"Authorization": "Bearer YOUR_HUGGINGFACE_API_KEY_HERE"}
+
