@@ -41,11 +41,11 @@ pip install pillow requests
     Clone or download this repository.
 
     Open a terminal and install dependencies:
-```bash`
+```bash
 pip install pillow requests
 ```
 
 Edit the script file and replace:
-
+```
 headers = {"Authorization": "Bearer YOUR_HUGGINGFACE_API_KEY_HERE"}
-
+```
