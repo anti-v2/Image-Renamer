@@ -25,3 +25,14 @@ Install required Python libraries:
 
 ```bash
 pip install pillow requests
+
+## 🔑 Setup Hugging Face API Key
+
+    Create a free account at Hugging Face Join.
+
+    After signup, go to Settings → Access Tokens.
+
+    Click "New Token", name it anything (e.g., image-rename), and set Role: Read.
+
+    Copy the generated API key (starts with hf_...).
+
