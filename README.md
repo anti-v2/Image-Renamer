@@ -32,8 +32,7 @@ pip install pillow requests
   -  Create a free account at Hugging Face Join.
   -  After signup, go to Settings → Access Tokens.
    - Click "New Token", name it anything (e.g., image-rename), and set Role: Read.
-
-    Copy the generated API key (starts with hf_...).
+  - Copy the generated API key (starts with hf_...).
 
 
 # 🛠️ How to Use
@@ -45,7 +44,7 @@ pip install pillow requests
 pip install pillow requests
 ```
 
-Edit the script file and replace:
+Edit the script file (rename_images.py) and replace:
 ```
 headers = {"Authorization": "Bearer YOUR_HUGGINGFACE_API_KEY_HERE"}
 ```
