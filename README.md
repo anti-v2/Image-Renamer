@@ -16,35 +16,31 @@ No more opening each image manually. Just run the script and get meaningful name
 
 ---
 
-## 📋 Requirements
+### 📋 Requirements
 
 - Python 3.10+
 - pip (Python package manager)
 
 Install required Python libraries:
 
-```bash
+``` bash ```
 pip install pillow requests
----
 
+# 🔑 Setup Hugging Face API Key
 
-## 🔑 Setup Hugging Face API Key
-
-    Create a free account at Hugging Face Join.
-
-    After signup, go to Settings → Access Tokens.
-
-    Click "New Token", name it anything (e.g., image-rename), and set Role: Read.
+  -  Create a free account at Hugging Face Join.
+  -  After signup, go to Settings → Access Tokens.
+   - Click "New Token", name it anything (e.g., image-rename), and set Role: Read.
 
     Copy the generated API key (starts with hf_...).
----
 
-🛠️ How to Use
+
+#🛠️ How to Use
 
     Clone or download this repository.
 
     Open a terminal and install dependencies:
-```bash
+```bash```
 pip install pillow requests
 
 Edit the script file and replace:
