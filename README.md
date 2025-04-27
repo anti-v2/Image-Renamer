@@ -62,9 +62,14 @@ python rename_images.py
 ```
 ---
 ### Images
-![image](https://github.com/user-attachments/assets/bb40dfac-230c-4638-88bd-74e38dc088b7)
 ![Alt Text](https://github.com/anti-v2/Image-Renamer/blob/main/image/Screenshot-2025-04-27_14:46:46.png?raw=true)
 
+---
+![image](https://github.com/user-attachments/assets/bb40dfac-230c-4638-88bd-74e38dc088b7)
+
+---
+
+![Alt Text] (https://github.com/anti-v2/Image-Renamer/blob/main/image/Screenshot-2025-04-27_14:50:48.png?raw=true)
 
 
 ---
