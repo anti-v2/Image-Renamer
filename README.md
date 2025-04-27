@@ -3,6 +3,7 @@
 
 This small Python script automatically renames your bulk-downloaded images by **looking at the image and generating a smart caption** using AI!  
 No more opening each image manually. Just run the script and get meaningful names like `sunset_beach.jpg` or `mountain_view.png` instead of random codes.
+Its more like an API that opens the wallpaper and see the image (The AI) and then sends and rename wallpaper.
 
 ---
 
