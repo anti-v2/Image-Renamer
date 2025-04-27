@@ -25,6 +25,8 @@ Install required Python libraries:
 
 ```bash
 pip install pillow requests
+---
+
 
 ## 🔑 Setup Hugging Face API Key
 
@@ -35,6 +37,7 @@ pip install pillow requests
     Click "New Token", name it anything (e.g., image-rename), and set Role: Read.
 
     Copy the generated API key (starts with hf_...).
+---
 
 🛠️ How to Use
 
