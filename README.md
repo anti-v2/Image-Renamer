@@ -43,8 +43,9 @@ pip install pillow requests
 git clone https://github.com/anti-v2/Image-Renamer.git
 cd Image-Renamer
 ```
-- Create virtual env
+- Create virtual env Linux:
 ```
+python -m venv wallRename
 pip install pillow requests
 ```
 ---
