@@ -23,10 +23,10 @@ No more opening each image manually. Just run the script and get meaningful name
 
 Install required Python libraries:
 
-``` bash 
+ bash ```
 pip install pillow requests
 ```
-
+```
 # 🔑 Setup Hugging Face API Key
 
   -  Create a free account at Hugging Face Join.
@@ -38,7 +38,7 @@ pip install pillow requests
 # 🛠️ How to Use
     -Clone or download this repository.
     -Open a terminal and install dependencies:
-  
+```  
 bash
 ```pip install pillow requests
 ```
