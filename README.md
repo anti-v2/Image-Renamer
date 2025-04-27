@@ -48,3 +48,7 @@ Edit the script file (rename_images.py) and replace:
 ```
 headers = {"Authorization": "Bearer YOUR_HUGGINGFACE_API_KEY_HERE"}
 ```
+-with your actual Hugging Face API key. eg hf_
+# Run the script:
+``` python rename_images.py
+```
