@@ -69,7 +69,7 @@ python rename_images.py
 
 ---
 
-![Alt Text] (https://github.com/anti-v2/Image-Renamer/blob/main/image/Screenshot-2025-04-27_14:50:48.png?raw=true)
+![Alt Text](https://github.com/anti-v2/Image-Renamer/blob/main/image/Screenshot-2025-04-27_14:50:48.png?raw=true)
 
 
 ---
